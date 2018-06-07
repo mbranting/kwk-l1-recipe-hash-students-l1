@@ -26,6 +26,7 @@ def recipe_ingredients(perfect_10_recipe) = {
   "olive oil" => "1/2 cup"
   "agave" => "1/4 cup"
 }
+recipe_ingredients
   
 end
 
