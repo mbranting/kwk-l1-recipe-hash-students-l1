@@ -29,7 +29,7 @@ def recipe_ingredients
 }
   puts perfect_10_recipe
 end
-return recipe_ingredients
+recipe_ingredients
 
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
