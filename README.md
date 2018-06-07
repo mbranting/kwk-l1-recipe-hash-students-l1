@@ -9,7 +9,7 @@ And as a reminder, a hash is a data structure, similar to an array, but instead 
 ```ruby
 student_ages = {
   :victoria => 25,
-  :arel => 27,
+  :ariel => 27,
   :carley => 25,
   :jordan => 28, 
   :al => 26
